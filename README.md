@@ -31,6 +31,9 @@
 
 <div align="left">
 
+@* <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ozanerel&show_icons=true&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ozanerel&layout=compact&theme=tokyonight" /> *@
 
 </div>
 
